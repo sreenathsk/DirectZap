@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DirectZap</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="send_message">Send Message</string>
+    <string name="please_input_all_fields">Please input all fields</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="please_enter_a_message_to_send">Please enter a message to send</string>
+    <string name="whatsapp_not_installed">WhatsApp not installed</string>
+    <string name="error">Error: %1$s</string>
+</resources>
